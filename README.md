@@ -1,5 +1,7 @@
 # E-Commerce Emotion Classifier using DistilBERT
 
+- **Web App** [Here](https://comment-emotion-classifier29483.streamlit.app/)
+
 A PyTorch-based **multi-label emotion classification** project that identifies emotions expressed in written customer-style feedback. It uses **DistilBERT** and the **Google GoEmotions (simplified)** dataset, which contains **28 labels** (27 emotions and neutral).
 
 > **Important:** GoEmotions consists of annotated Reddit comments, **not verified e-commerce reviews**. This project is a general-purpose emotion classifier that can be *applied* to shopping reviews. Evaluate on a separately human-labeled e-commerce dataset before claiming reliable performance in that domain.
